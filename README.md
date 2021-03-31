@@ -11,4 +11,8 @@ JIRA
 ------------
 
 api token : ydDy2HOGmyHUdCuKMllpDE83
-username : lhoffstator
+username : leonardhoffstator@gmail.com
+
+geocodingAPI
+_______________
+AIzaSyAlmGnkrtOpSp4zrb-Wh1CH35X1iAk6-a4
